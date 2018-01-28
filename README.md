@@ -1,2 +1,2 @@
-# explore_maze
-Learning Java Object Oriented Concepts, exploring continues...
+# maze
+Maze game with GUI
